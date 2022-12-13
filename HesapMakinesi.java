@@ -1,5 +1,3 @@
-package Operatorler;
-
 import java.util.Scanner;
 
 public class HesapMakinesi {
